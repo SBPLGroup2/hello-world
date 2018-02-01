@@ -40,7 +40,7 @@ color: #FF0000;
 <table> 
 	<tr>
 	<td></td>
-	<td class="wide1"><a href="ex2_page1.html">Halloween</a> | 
+	<td class="wide1"><a href="index.html">Halloween</a> | 
 	<a href="ex2_page2.html">Dia de los Muertos</a> | <span class="here"><b>Guy Fawkes Day</b></span></td>
 	<td class="wide2"></td>
 	</tr>
